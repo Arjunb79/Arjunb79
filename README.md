@@ -1,5 +1,7 @@
 I'm BSc.Computer Science graduate and pursuing MCA @ TKM College of Engineering, Kollam.
 <h1 align="center">Hi 👋, I'm ARJUN B</h1>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arjunb0320/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ArjunB6126562) 
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun&label=Profile%20views&color=0e75b6&style=flat" alt="Arjunb79" /> </p>
